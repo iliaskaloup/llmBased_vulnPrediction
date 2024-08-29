@@ -14,7 +14,7 @@ The "data" directory contains the data required for training and evaluating the 
 
 The dataset.csv file in the repository is the pre-processed "sequences of tokens" format of the dataset.
 
-The py_corpus.txt file contains the python corpus utilized to train the word2vec embedding vectors.
+The py_corpus.txt file contains the python corpus utilized to train the word2vec embedding vectors. You need to unzip the py_corpus.zip first.
 
 The jupyter notebook files (.ipynb) in the "ml" folder are python files, which perform the whole analysis. Specifically:
 
