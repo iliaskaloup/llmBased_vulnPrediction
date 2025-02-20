@@ -6,7 +6,7 @@ Prediction of vulnerable software components by fine-tuning Transformer-based pr
 To replicate the analysis and reproduce the results:
 
 ~~~
-git clone https://github.com/certh-ai-and-softeng-group/llmBased_vulnPrediction.git
+git clone https://github.com/iliaskaloup/llmBased_vulnPrediction.git
 ~~~
 and navigate to the cloned repository.
 
